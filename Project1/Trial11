@@ -1,0 +1,2 @@
+Select * From ABC
+Where ProdId = 111
